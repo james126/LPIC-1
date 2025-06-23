@@ -1,0 +1,61 @@
+[
+    {
+        "name": "LPIC-1 Study Guide",
+        "children": [
+            {
+                "path": "LPIC-1 Study Guide/Intro",
+                "children": [
+                    {
+                        "path": "LPIC-1 Study Guide/Intro/Introduction.md",
+                        "children": []
+                    }
+                ],
+                "name": "Intro"
+            },
+            {
+                "name": "Command Line",
+                "path": "/home/james/IdeaProjects/LPIC-1-master/LPIC-1 Study Guide/Command Line",
+                "children": [
+                    {
+                        "name": "Basics",
+                        "path": "LPIC-1 Study Guide/Command Line/Basics",
+                        "children": [
+                            {
+                                "path": "LPIC-1 Study Guide/Command Line/Basics/Basics.md",
+                                "children": []
+                            },
+                            {
+                                "path": "LPIC-1 Study Guide/Command Line/Basics/Internal Commands.md",
+                                "children": []
+                            },
+                            {
+                                "path": "LPIC-1 Study Guide/Command Line/Basics/More commands.md",
+                                "children": []
+                            },
+                            {
+                                "path": "LPIC-1 Study Guide/Command Line/Basics/PATH.md",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "path": null,
+                "children": [
+                    {
+                        "path": null,
+                        "children": [
+                            {
+                                "path": "LPIC-1 Study Guide/Scripts, Emails, Databases/Shell environment/Environment variables.md",
+                                "children": []
+                            }
+                        ],
+                        "name": "Shell environment"
+                    }
+                ],
+                "name": "Scripts, Emails, Databases"
+            }
+        ]
+    }
+]

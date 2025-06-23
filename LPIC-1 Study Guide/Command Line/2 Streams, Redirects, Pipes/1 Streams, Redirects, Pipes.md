@@ -1,0 +1,4 @@
+- Linux treats input to and output from programs as streams
+- Ordinarily, input comes from the keyboard and output goes to the screen
+- You can redirect input and output to come or go from files etc
+- You can pipe the output of one program as the input to another

@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "[markdown]": {
+        "editor.detectIndentation": false,
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
+    },
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdown.preview.fontSize": 16,
+    "markdown.extension.list.indentationSize": "inherit",
+    "markdown.extension.showActionButtons": true,
+    "markdown.extension.toc.orderedList": true,
+    "markdown.preview.breaks": true,
+    "markdown.preview.lineHeight": 1.2,
+    "markdown.styles": [
+        "/home/james/IdeaProjects/LPIC-1-master/.vscode/markdown.css"
+    ],
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "editor.fontSize": 15,
+    "markdown-preview-github-styles.colorTheme": "light",
+    "markdown.extension.completion.enabled": true
+}

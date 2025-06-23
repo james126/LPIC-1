@@ -1,0 +1,48 @@
+ul, li {
+    line-height: '1.2rem' !important;
+    padding: 0 !important; 
+    margin: 0 !important;
+}
+
+
+p {
+    margin: 0 !important;
+}
+
+h1 {
+    line-height: '1.2rem';    
+    margin: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+h2, h3 {
+    margin: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+h2, h3, h4, h5, h6 {
+    color: darkblue !important;
+}
+
+h1 {
+    color: blue !important;
+}
+
+mark {
+    background-color: #FFFF00;
+}
+
+blockquote {
+      border: 1px solid #818b98 !important;
+      border-radius: 5px;
+}
+
+li::marker {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+code {
+    background-color: #59636e !important;
+}
+
