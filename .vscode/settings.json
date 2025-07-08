@@ -28,5 +28,6 @@
     "workbench.startupEditor": "none",
     "editor.fontSize": 15,
     "markdown-preview-github-styles.colorTheme": "light",
-    "markdown.extension.completion.enabled": true
+    "markdown.extension.completion.enabled": true,
+    "markdown-table-formatter.globalColumnSizes": "Same Column Size"
 }

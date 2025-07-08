@@ -3,58 +3,122 @@
         "name": "LPIC-1 Study Guide",
         "children": [
             {
-                "path": "LPIC-1 Study Guide/Intro",
+                "name": "Section 1",
+                "path": "LPIC-1 Study Guide/Section 1",
                 "children": [
                     {
-                        "path": "LPIC-1 Study Guide/Intro/Introduction.md",
-                        "children": []
-                    }
-                ],
-                "name": "Intro"
-            },
-            {
-                "name": "Command Line",
-                "path": "/home/james/IdeaProjects/LPIC-1-master/LPIC-1 Study Guide/Command Line",
-                "children": [
-                    {
-                        "name": "Basics",
-                        "path": "LPIC-1 Study Guide/Command Line/Basics",
+                        "name": "Intro",
+                        "path": "LPIC-1 Study Guide/Section 1/Intro",
                         "children": [
                             {
-                                "path": "LPIC-1 Study Guide/Command Line/Basics/Basics.md",
+                                "path": "LPIC-1 Study Guide/Section 1/Intro/Introduction.md",
                                 "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Command Line",
+                        "path": "LPIC-1 Study Guide/Section 1/Command Line",
+                        "children": [
+                            {
+                                "name": "Basics",
+                                "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics",
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/Basics.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/Command tricks.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/Internal commands.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/man, info, help.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/More commands.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/PATH.md",
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
-                                "path": "LPIC-1 Study Guide/Command Line/Basics/Internal Commands.md",
-                                "children": []
+                                "name": "File commands",
+                                "path": null,
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Viewing files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Transforming files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Combining files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Formatting files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Summarizing files.md",
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
-                                "path": "LPIC-1 Study Guide/Command Line/Basics/More commands.md",
-                                "children": []
+                                "name": "Streams, Redirects, Pipes",
+                                "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes",
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Intro.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Pipe.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Redirect.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Stream.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/xargs.md",
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
-                                "path": "LPIC-1 Study Guide/Command Line/Basics/PATH.md",
-                                "children": []
+                                "name": "Regex",
+                                "path": null,
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Regex rules.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Commands.md",
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     }
                 ]
-            },
-            {
-                "path": null,
-                "children": [
-                    {
-                        "path": null,
-                        "children": [
-                            {
-                                "path": "LPIC-1 Study Guide/Scripts, Emails, Databases/Shell environment/Environment variables.md",
-                                "children": []
-                            }
-                        ],
-                        "name": "Shell environment"
-                    }
-                ],
-                "name": "Scripts, Emails, Databases"
             }
         ]
     }
