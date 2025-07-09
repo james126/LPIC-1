@@ -11,17 +11,18 @@
 > | -------------------- | ----------------------------------------------------- |
 > | `-r` `--recursive`   | search in a directory and subdirectories              |
 > | `-i` `--ignore-case` | non case sensitive                                    |
-> | `-c` `--count`       | count matching lines <br> displays the number of lines that match the pattern |
+
 > 
 > examples
 > `ps -e | grep chrome`
 > <li>see process number for processes called chrome</li>
 > <li>-e shows all processes</li>
 > <br>
+>
+> <li>finds all files that contain string Brown</li>
+> <li>searches recursively</li>
 > 
 > ![](../../../Image/grep1.png)
->  <li>finds all files that contain string eth0 or eth1</li>
-> <li>searches recursively</li>
 > <br>
 > 
 >  `grep -e "(something\.example\.com).*200" /etc/*`

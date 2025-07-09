@@ -11,7 +11,7 @@
 > |              |                       |
 > |--------------|-----------------------|
 > | `spacebar`   | move forward one page |
-> | `esc+v`      | move back one page    |
+
 > | arrow keys   | move up/down one line |
 > | `/`          | Search for text       |
 > | `q`          | quit                  |

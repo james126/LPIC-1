@@ -7,16 +7,6 @@
                 "path": "LPIC-1 Study Guide/Section 1",
                 "children": [
                     {
-                        "name": "Intro",
-                        "path": "LPIC-1 Study Guide/Section 1/Intro",
-                        "children": [
-                            {
-                                "path": "LPIC-1 Study Guide/Section 1/Intro/Introduction.md",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "name": "Command Line",
                         "path": "LPIC-1 Study Guide/Section 1/Command Line",
                         "children": [
@@ -29,15 +19,15 @@
                                         "children": []
                                     },
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/Command tricks.md",
-                                        "children": []
-                                    },
-                                    {
                                         "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/Internal commands.md",
                                         "children": []
                                     },
                                     {
                                         "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/man, info, help.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Basics/Command tricks.md",
                                         "children": []
                                     },
                                     {
@@ -55,6 +45,14 @@
                                 "path": null,
                                 "children": [
                                     {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Viewing files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Transforming files.md",
+                                        "children": []
+                                    },
+                                    {
                                         "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Combining files.md",
                                         "children": []
                                     },
@@ -65,14 +63,6 @@
                                     {
                                         "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Summarizing files.md",
                                         "children": []
-                                    },
-                                    {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Transforming files.md",
-                                        "children": []
-                                    },
-                                    {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Viewing files.md",
-                                        "children": []
                                     }
                                 ]
                             },
@@ -81,11 +71,11 @@
                                 "path": null,
                                 "children": [
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Commands.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Regex rules.md",
                                         "children": []
                                     },
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Regex rules.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Commands.md",
                                         "children": []
                                     }
                                 ]
@@ -99,7 +89,7 @@
                                         "children": []
                                     },
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Pipe.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Stream.md",
                                         "children": []
                                     },
                                     {
@@ -107,7 +97,7 @@
                                         "children": []
                                     },
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Stream.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Streams, Redirects, Pipes/Pipe.md",
                                         "children": []
                                     },
                                     {
@@ -115,6 +105,16 @@
                                         "children": []
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Intro",
+                        "path": "LPIC-1 Study Guide/Section 1/Intro",
+                        "children": [
+                            {
+                                "path": "LPIC-1 Study Guide/Section 1/Intro/Introduction.md",
+                                "children": []
                             }
                         ]
                     },
@@ -129,15 +129,70 @@
                                     {
                                         "path": "LPIC-1 Study Guide/Section 1/Software/Packages/Packages.md",
                                         "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/4 Dependencies and conflicts/Dependency conflicts.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Packages/Converting formats.md",
+                                        "children": []
                                     }
                                 ]
                             },
                             {
-                                "name": "RPM",
+                                "name": "RPM packages",
                                 "path": null,
-                                "children": []
-
-                             }
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Conventions.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Commands.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Yum.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Extracting package data.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Configuration.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Extracting package data.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                                                        {
+                                "name": "Debian packages",
+                                "path": null,
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/Intro",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/dpkg.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/apt.md",
+                                        "children": [],
+                                        "name": "apt"
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/Reconfigure packages.md",
+                                        "children": []
+                                    }
+                                ]
+                            }
                         ]
                     }
                 ]

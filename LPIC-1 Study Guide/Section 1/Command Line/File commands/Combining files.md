@@ -16,7 +16,7 @@
 >
 > |                            | |
 > |----------------------------|------------------------------------------------------------|
-> | Display line ends          | `-e` `--show-ends` <br>add **$** (dollar sign) at the end of each line |
+> | Display line ends          | `-E` `--show-ends` <br>add **$** (dollar sign) at the end of each line |
 > | Number lines               | `-n` `–number` <br>add line number to start each line |
 > | Minimize blank lines       | `-s` `--squeeze-blank` <br>Compresses groups of blank lines to a single line |
 

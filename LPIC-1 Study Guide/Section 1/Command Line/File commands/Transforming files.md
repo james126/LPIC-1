@@ -16,7 +16,7 @@ These commands don't change files contents, but instead send the changed file co
 > |               | |
 > |---------------|-| 
 > | Ignore case   | `-f` `--ignore-case` don't differentiate uppercase/lowercase |
-> | Month         | `-m` `--month-sort` sort by three letter month abbreviation e.g. JAN |
+> | Month         | `-M` `--month-sort` sort by three letter month abbreviation e.g. JAN |
 > | Numeric       | `-n` `--numeric-sort` sort by number |
 > | Reverse       | `-r` `--reverse-order` sorts in reverse order |
 > | Field         | `-k` `--k=field` by default uses the first field as its sort field, you can specify another field/s |
@@ -30,7 +30,7 @@ These commands don't change files contents, but instead send the changed file co
 > |         |                                    |
 > |---------|------------------------------------|
 > | Split by bytes | `-b size` `--bytes=size` breaks input file into pieces by maximum *size* bytes |
-> | by bytes in line-size chunks | `-c=size` `--line-bytes=size` same as split by bytes, but without breaking lines  |
+> | by bytes in line-size chunks | `-C=size` `--line-bytes=size` same as split by bytes, but without breaking lines  |
 > | by number of lines | `-l lines` `--lines=lines` |
 > 
 > example - split listing1 into two files – *numbersaa* and *numbersab*
