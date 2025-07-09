@@ -10,3 +10,12 @@ It takes a single argument - name of RPM file - and outputs cpio archive <br>
 > ```cpio -i --make-directories < samba-4.1.9-4.fc20.src.cpio``` <br>
 > ```-i``` &nbsp; option extract archive <br>
 > ```--make-directories``` &nbsp; creates directories
+
+> ```.tar``` <br>
+> Stands for tape archive <br>
+> File format used to bundle directories and files <br>
+> ```tar something.tar file1 file2 dir1```
+> 
+> ### tarball
+> A compressed tar file (similar to a zip file) <br>
+> ```.tar.gz``` or ```.tgz```

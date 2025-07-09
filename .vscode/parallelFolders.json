@@ -55,14 +55,6 @@
                                 "path": null,
                                 "children": [
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Viewing files.md",
-                                        "children": []
-                                    },
-                                    {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Transforming files.md",
-                                        "children": []
-                                    },
-                                    {
                                         "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Combining files.md",
                                         "children": []
                                     },
@@ -72,6 +64,28 @@
                                     },
                                     {
                                         "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Summarizing files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Transforming files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/File commands/Viewing files.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Regex",
+                                "path": null,
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Commands.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Regex rules.md",
                                         "children": []
                                     }
                                 ]
@@ -101,21 +115,29 @@
                                         "children": []
                                     }
                                 ]
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Software",
+                        "path": null,
+                        "children": [
                             {
-                                "name": "Regex",
+                                "name": "Packages",
                                 "path": null,
                                 "children": [
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Regex rules.md",
-                                        "children": []
-                                    },
-                                    {
-                                        "path": "LPIC-1 Study Guide/Section 1/Command Line/Regex/Commands.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Packages/Packages.md",
                                         "children": []
                                     }
                                 ]
-                            }
+                            },
+                            {
+                                "name": "RPM",
+                                "path": null,
+                                "children": []
+
+                             }
                         ]
                     }
                 ]

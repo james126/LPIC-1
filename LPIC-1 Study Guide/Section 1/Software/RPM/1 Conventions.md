@@ -1,5 +1,6 @@
-### RPM Package Manager
-Red Hat Package Manager
+### RPM
+RedHat Package Manager
+
 
 > #### Package Naming Convention
 > ```packagename-a.b.c-x.arch.rpm``` <br>
