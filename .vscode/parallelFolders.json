@@ -7,6 +7,16 @@
                 "path": "LPIC-1 Study Guide/Section 1",
                 "children": [
                     {
+                        "name": "Intro",
+                        "path": "LPIC-1 Study Guide/Section 1/Intro",
+                        "children": [
+                            {
+                                "path": "LPIC-1 Study Guide/Section 1/Intro/Introduction.md",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
                         "name": "Command Line",
                         "path": "LPIC-1 Study Guide/Section 1/Command Line",
                         "children": [
@@ -109,16 +119,6 @@
                         ]
                     },
                     {
-                        "name": "Intro",
-                        "path": "LPIC-1 Study Guide/Section 1/Intro",
-                        "children": [
-                            {
-                                "path": "LPIC-1 Study Guide/Section 1/Intro/Introduction.md",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "name": "Software",
                         "path": null,
                         "children": [
@@ -192,9 +192,64 @@
                                         "children": []
                                     }
                                 ]
-                            }
-                        ]
-                    }
+                            },
+                            {
+                                "name": "Shared libraries",
+                                "path": null,
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Shared Libraries/Basics.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Shared Libraries/Library management.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Shared Libraries/Library Cache.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Processes",
+                                "path": null,
+                                "children": [
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Processes/Kernel.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Processes/Examining processes.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Processes/Foreground & background processes.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Processes/Resource use.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Processes/Process priorities.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Processes/Killing processes.md",
+                                        "children": []
+                                    }
+                                 ]
+                            }       
+                        ]           
+                    },
+                    {
+                        "name": "Hardware",
+                        "path": "LPIC-1 Study Guide/Section 1/Hardware",
+                        "children": [
+                            
+                        ]       
+                    }    
                 ]
             }
         ]
