@@ -239,7 +239,7 @@
                                         "path": "LPIC-1 Study Guide/Section 1/Software/Processes/Killing processes.md",
                                         "children": []
                                     }
-                                 ]
+                                ]
                             }       
                         ]           
                     },
@@ -247,7 +247,144 @@
                         "name": "Hardware",
                         "path": "LPIC-1 Study Guide/Section 1/Hardware",
                         "children": [
-                            
+                                    {
+                                        "name": "Firmware",
+                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Firmware",
+                                        "children": [
+                                                {
+                                                "name": "Firmware",
+                                                "path": "LPIC-1 Study Guide/Section 1/Hardware/Firmware/Firmware.md",
+                                                "children": []
+                                            },
+                                                                                         {
+                                                "name": "IRQ",
+                                                "path": "LPIC-1 Study Guide/Section 1/Hardware/Firmware/IRQ.md",
+                                                "children": []
+                                            },
+                                            {
+                                                "name": "IO address",
+                                                "path": "LPIC-1 Study Guide/Section 1/Hardware/Firmware/IO address.md",
+                                                "children": []
+                                            },
+                                                                                        {
+                                                "name": "DMA address",
+                                                "path": "LPIC-1 Study Guide/Section 1/Hardware/Firmware/DMA address.md",
+                                                "children": []
+                                            },
+                                            {
+                                                "name": "Hotplug Coldplug devices",
+                                                "path": "LPIC-1 Study Guide/Section 1/Hardware/Firmware/Hotplug Coldplug devices.md",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Expansion cards",
+                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Expansion cards",
+                                        "children": [
+                                                    {
+                                                        "name": "PCI cards",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Expansion cards/PCI cards.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Kernel Modules",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Expansion cards/Kernel Modules.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Loading Kernel Modules",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Expansion cards/Loading Kernel Modules.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Removing Kernel Modules",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Expansion cards/Removing Kernel Modules.md",
+                                                        "children": []
+                                                    }
+                                                ]
+                                    },
+                                    {
+                                        "name": "USB devices",
+                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/USB devices",
+                                        "children": [
+                                                    {
+                                                        "name": "Kernel Modules",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/USB devices/Basics.md",
+                                                        "children": []
+                                                    }
+                                                ]
+                                    },
+                                    {
+                                        "name": "Hard disks",
+                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Hard disks",
+                                        "children": [
+                                                    {
+                                                        "name": "SATA disks",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Hard disks/SATA disks.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "SCSI disks",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Hard disks/SCSI disks.md",
+                                                        "children": []
+                                                    }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Partitioning and Filesystems",
+                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Partitioning and Filesystems",
+                                        "children": [
+                                                    {
+                                                        "name": "Partitioning",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Partitioning and Filesystems/Partitioning.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Formatting",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Partitioning and Filesystems/Formatting.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Swap space",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Partitioning and Filesystems/Swap space.md",
+                                                        "children": []
+                                                    }
+                                        ]
+                                    },
+                                                                        {
+                                        "name": "Maintaining Filesystems",
+                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Maintaining Filesystems",
+                                        "children": [
+                                                    {
+                                                        "name": "Tuning filesystem",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Maintaining Filesystems/Tuning filesystem.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Debugging filesystem",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Maintaining Filesystems/Debugging filesystem.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Journal",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Maintaining Filesystems/Journal.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Errors",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Maintaining Filesystems/Errors.md",
+                                                        "children": []
+                                                    },
+                                                                                                        {
+                                                        "name": "Disk space",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Maintaining Filesystems/Disk space.md",
+                                                        "children": []
+                                                    }
+
+                                        ]
+                                    }
+
                         ]       
                     }    
                 ]

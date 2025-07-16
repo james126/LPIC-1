@@ -3,9 +3,9 @@
      |     | Intro                           |        |       |         |     |
      |     | Assessment Test                 |        |       |         |     |
      |     | **Part 1 Exam**                 |        |       |         |     |
-     | 1   | Command Line                    | 3      | 45    | 42      | 28-32
-     | 2   | Managing Software               | 17     | 105   | 88      |     |
-     | 3   | Configuring Hardware            | 107    | 176   | 69      |     |
+     | 1   | Command Line                    | 3      | 45    | 42      | ✔   |
+     | 2   | Managing Software               | 47     | 105   | 88      | ✔   |
+     | 3   | Configuring Hardware            | 108    | 176   | 68      | 107 - 127    |
      | 4   | Managing Files                  | 177    | 231   | 54      |     |
      | 5   | Booting Linux and Editing Files | 233    | 275   | 42      |     |
      |     |                                 |        |       |         |     |
@@ -17,6 +17,6 @@
      | 9   | Scripts, Email, Databases       | 453    | 521   | 68      |     |
      | 10  | Security                        | 523    | 574   | 51      |     |
      |     |                                 |        |       |         |     |
-     |     | Total                           |        |       | 582     |     |
+     |     | Total                           |        |       | 581     |     |
 
-
+pdfunite cover.pdf report.pdf appendix.pdf final_document.pdf
