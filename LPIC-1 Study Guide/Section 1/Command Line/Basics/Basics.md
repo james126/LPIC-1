@@ -1,7 +1,7 @@
 # Shell
 - a program that accepts and interprets commands 
 - provides an interface to the system
-- the shell is configured for each invidual user
+- the shell is configured for each individual user
 <br>
 
 **There are many shells**
@@ -22,7 +22,7 @@
 ### Using a shell
 Most commands are external - they're programs external to the shell
 A few commands are internal
-<mark>Internal commands take presendence
+<mark>Internal commands take precedence
 <br>
 
 

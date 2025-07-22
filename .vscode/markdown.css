@@ -1,40 +1,54 @@
-ul, li {
-    line-height: '1.2rem' !important;
-    padding: 0 !important; 
-    margin: 0 !important;
+ol, ul, li {
+    line-height: 18px !important;
+    padding-top: 0 !important; 
+    padding-bottom: 0 !important; 
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
 }
-
 
 p {
     margin: 0 !important;
+    line-height: 18px !important;
 }
 
+
 h1 {
-    line-height: '1.2rem';    
+    line-height: 1.2rem;    
     margin: 0 !important;
-    padding-bottom: '0.2rem' !important;
+    padding-bottom: 0.5rem !important;
+    border-bottom-style: none !important;
+    font-weight: 700;
+    color: blue !important;
+    break-after: avoid;
+    
 }
 
 h2, h3, h4 {
     margin: 0 !important;
     padding-bottom: 0 !important;
+    font-weight: 700;
+    break-after: avoid;
 }
 
 h2, h3, h4, h5, h6 {
     color: darkblue !important;
 }
 
-h1 {
-    color: blue !important;
-}
 
 mark {
     background-color: #FFFF00;
 }
 
 blockquote {
-      border: 1px solid #818b98 !important;
-      border-radius: 5px;
+    font-family: "Calibri", sans-serif;
+    border: 1px solid #b0b7c0 !important;
+    border-radius: 5px;
+    width: fit-content;
+    margin-bottom: 1.0rem;
+    background-color: white !important;
+    margin-left: 0;
+    padding-bottom: 2px;
+    break-inside: avoid;
 }
 
 li::marker {
@@ -44,5 +58,6 @@ li::marker {
 
 code {
     background-color: #59636e !important;
+    color: white !important;
+    line-height: 20px !important;
 }
-

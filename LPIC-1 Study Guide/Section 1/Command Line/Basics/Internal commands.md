@@ -1,6 +1,7 @@
 # Internal Commands
-Built-in commands
 
+Built-in commands
+&nbsp;
 > ### cd
 > change directory
 > `cd /home/james`
@@ -26,7 +27,7 @@ Built-in commands
 > displays all shell variables/functions
 > including environment variables and shell internal variables
 > you can enable/disable options:
-> &nbsp;&nbsp; `set -x` turns on debugging
+> &nbsp;&nbsp;`set -x` turns on debugging
 > &nbsp;&nbsp;`set -- arg1 arg2` sets positional parameters $1, $2 to arg1 and arg2
 
 > ### exit
@@ -43,8 +44,8 @@ Built-in commands
 > ![](../../../Image/type-syntax.png)
 > *example1* `cd` is in-built command
 > *example2* `usr/bin/bash` is the path to the executable file - it's a standalone program
-> <br>
+> <span/>
 > Some commands are <mark>duplicated</mark> - has an internal and external executable/s
-> internal commands take presedence
+> internal commands take precedence
 > to check use ```–a```
 > ![](../../../Image/type-syntax2.png) <br>

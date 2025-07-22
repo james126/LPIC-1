@@ -383,10 +383,85 @@
                                                     }
 
                                         ]
+                                    },
+                                    {
+                                        "name": "Mounting and Unmounting",
+                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Mounting and Unmounting",
+                                        "children": [
+                                                    {
+                                                        "name": "Mounting",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Mounting and Unmounting/Mounting.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Temporary Mounting",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Mounting and Unmounting/Temporary Mounting.md",
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "name": "Permanent Mounting",
+                                                        "path": "LPIC-1 Study Guide/Section 1/Hardware/Mounting and Unmounting/Permanent Mounting.md",
+                                                        "children": []
+                                                    }
+
+                                        ]
                                     }
 
                         ]       
-                    }    
+                    },
+                    {
+                        "name": "Managing Files",
+                        "path": "LPIC-1 Study Guide/Section 1/Managing Files",
+                        "children": [
+                            {
+                                "name": "File Management Commands",
+                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Management Commands",
+                                "children": [
+                                    {
+                                        "name": "Naming Files",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Management Commands/Naming Files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Wildcards",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Management Commands/Wildcards.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "File commands",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Management Commands/File commands.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Archiving files",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Management Commands/Archiving files.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Directory commands",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Management Commands/Directory commands.md",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "File ownership",
+                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership",
+                        "children": [
+                            {
+                                "name": "Checking",
+                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership/Checking",
+                                "children": []
+                            },
+                            {
+                                "name": "Changing",
+                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership/Changing",
+                                "children": []
+                            }
+                        ]
+                    }
                 ]
             }
         ]

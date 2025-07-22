@@ -5,7 +5,7 @@
      |     | **Part 1 Exam**                 |        |       |         |     |
      | 1   | Command Line                    | 3      | 45    | 42      | ✔   |
      | 2   | Managing Software               | 47     | 105   | 88      | ✔   |
-     | 3   | Configuring Hardware            | 108    | 176   | 68      | 107 - 127    |
+     | 3   | Configuring Hardware            | 108    | 176   | 68      | 161 |
      | 4   | Managing Files                  | 177    | 231   | 54      |     |
      | 5   | Booting Linux and Editing Files | 233    | 275   | 42      |     |
      |     |                                 |        |       |         |     |
@@ -20,3 +20,5 @@
      |     | Total                           |        |       | 581     |     |
 
 pdfunite cover.pdf report.pdf appendix.pdf final_document.pdf
+
+

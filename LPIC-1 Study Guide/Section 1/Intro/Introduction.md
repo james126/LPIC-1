@@ -6,9 +6,8 @@
 **Shell**
 - a program that accepts and interprets commands 
 - provides an interface to the system
-- the shell is configured for each invidual user
+- the shell is configured for each individual user
 <br>
-
 
 **Kernel**
 - Hardware control software
