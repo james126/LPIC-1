@@ -10,7 +10,7 @@ ordinary users can change files they own
 > `chown sally:skyhook document.txt`
 > changes user to *sally*
 > changes group to *skyhook*
-> > | | |
+> | | |
 > |-|-|
 > | `R` `--recursive` | change ownership on entire directory tree |
 

@@ -443,22 +443,170 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "name": "File ownership",
+                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership",
+                                "children": [        
+                                    {
+                                        "name": "Checking",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership/Checking",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Changing",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership/Changing",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "File access",
+                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access",
+                                "children": [
+                                    {
+                                        "name": "Permissions",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access/Permissions",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Special permissions",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access/Special permissions",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Access Control List",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access/Access Control List",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Changing Mode",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access/Changing Mode",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Default permissions",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access/Default permissions",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Default permissions",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access/File attributes",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Disk sharing",
+                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/Disk sharing",
+                                "children": [
+                                    {
+                                        "name": "Disk",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/Disk sharing/Disk quotas.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Locating files",
+                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/Locating files",
+                                "children": [
+                                    {
+                                        "name": "Filesystem Hierarchy Standard",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/Locating files/Filesystem Hierarchy Standard.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Directories and programs",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/Locating files/Directories and programs.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Locating files",
+                                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/Locating files/Locating files.md",
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
                     {
-                        "name": "File ownership",
-                        "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership",
+                        "name": "Booting Linux",
+                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux",
                         "children": [
                             {
-                                "name": "Checking",
-                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership/Checking",
-                                "children": []
+                                "name": "Boot Loaders",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders",
+                                "children": [
+                                    {
+                                        "name": "Terminology",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders/Terminology.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Principles",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders/Principles.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "GRUB Legacy",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders/GRUB Legacy.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "GRUB 2",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders/GRUB 2.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Alternative Boot Loaders",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders/Alternative Boot Loaders.md",
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
-                                "name": "Changing",
-                                "path": "LPIC-1 Study Guide/Section 1/Managing Files/File Ownership/Changing",
-                                "children": []
+                                "name": "Boot Process",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Process",
+                                "children": [
+                                    {
+                                        "name": "Boot process",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Process/Boot process.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Initialization Process",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Initialization Process",
+                                "children": [
+                                    {
+                                        "name": "Initialization process",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Initialization Process/Initialization process.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SysV",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV",
+                                "children": [
+                                    {
+                                        "name": "Using SysV",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/Using SysV.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Identifying Runlevel Services",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/Identifying Runlevel Services.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Managing Runlevel Services",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/Managing Runlevel Services.md",
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     }

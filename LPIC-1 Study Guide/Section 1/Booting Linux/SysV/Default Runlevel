@@ -1,0 +1,21 @@
+# Default Runlevel
+
+### Checking the Default Runlevel
+Check the `inittab` file
+example
+<img src="../../../Image/checkingrunlevel.png" style="width:40%; border:1px solid lightgrey">
+<span>&nbsp;</span>
+
+### Changing the Default Runlevel
+Edit the **initdefault** line in `/etc/inittab`
+if the system doesn't have that file, create one with only an **initdefault** line that specifies the default runlevel
+<span>&nbsp;</span>
+
+### Checking Current Runlevel
+`runlevel`
+<img src="../../../Image/runlevel.png" style="width:15%; border:1px solid lightgrey">
+**N** → means system hasn't switched runlevels since booting
+<span>&nbsp;</span>
+
+### Chaning Runlevels on a Running System
+e.g. to go from GUI to CLI
