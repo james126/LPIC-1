@@ -592,7 +592,7 @@
                                 "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV",
                                 "children": [
                                     {
-                                        "name": "Using SysV",
+                                        "name": "SysV",
                                         "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/Using SysV.md",
                                         "children": []
                                     },
@@ -604,6 +604,69 @@
                                     {
                                         "name": "Managing Runlevel Services",
                                         "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/Managing Runlevel Services.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Checking Runlevel Services",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/Managing Runlevel Services.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "systemd",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/systemd",
+                                "children": [
+                                    {
+                                        "name": "systemd",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/systemd/systemd.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Units and Targets",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/systemd/Units and Targets.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Configuring units",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/systemd/Configuring units.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Setting Default Target",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/systemd/Setting Default Target.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Upstart",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Upstart",
+                                "children": [
+                                    {
+                                        "name": "Upstart",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Upstart/Upstart.md",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Vi",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi",
+                                "children": [
+                                    {
+                                        "name": "vi",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi/vi.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "vi Modes",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi/vi Modes.md",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Using vi",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi/Using vi.md",
                                         "children": []
                                     }
                                 ]

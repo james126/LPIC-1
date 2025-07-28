@@ -27,6 +27,6 @@ example
 
 ### Startup Scripts
 1. the **rc** script runs scripts for each runlevel
-2. each runlevel has it's own directory containing scripts
-3. When entering a runlevel, **rc** passes a **start** parameter to all the scrips with names that being with **S**, and a stop parameter to all the scripts with names that begin with **K**
+2. symbolic links to scripts are place in runlevel-specific directories
+3. **rc** passes a **start** parameter to all the scrips with names that being with **S**, and a stop parameter to all the scripts with names that begin with **K**
 
