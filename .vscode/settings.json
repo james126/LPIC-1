@@ -29,5 +29,6 @@
     "editor.fontSize": 15,
     "markdown-preview-github-styles.colorTheme": "light",
     "markdown.extension.completion.enabled": true,
-    "markdown-table-formatter.globalColumnSizes": "Same Column Size"
+    "markdown-table-formatter.globalColumnSizes": "Same Column Size",
+    "markdown-pdf.headerTemplate": "<div style=\"font-size: 9px; margin-left: 1cm;\">&nbsp;</div> <div style=\"font-size: 12px; margin-left: auto; margin-right: 1cm; white-space: nowrap;\">Section 1/Booting Linux/vi</div>"
 }

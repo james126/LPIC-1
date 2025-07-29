@@ -61,3 +61,25 @@ code {
     color: white !important;
     line-height: 20px !important;
 }
+
+tr, td {
+	border: 1px solid lightgray !important;
+}
+
+th, thead > tr {
+    border: none !important;
+}
+
+table {
+    margin-bottom: 0.25rem;
+}
+
+table > thead > tr > th { 
+    padding-top: none !important;
+}
+
+table > thead > tr > th,
+table > thead > tr > td {
+	padding: none !important;
+    padding-top: 0px !important;
+}

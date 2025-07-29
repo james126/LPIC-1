@@ -1,11 +1,10 @@
 # Getting help
 
-> &nbsp;
->> ### man
->> manual
->> summary of a command/file
->> `man pwd`
-> 
+> ### man
+> manual
+> summary of a command/file
+> `man pwd`
+
 > ### Less pager 
 > `man` uses the less pager to display info
 > displays text one page at a time <br>

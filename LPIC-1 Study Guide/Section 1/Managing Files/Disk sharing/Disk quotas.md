@@ -5,7 +5,6 @@
 <span>&nbsp;</span>
 
 ### Enabling Quota Support
-
 > #### quota
 > display disk usage and limits
 > installs other utility packages
@@ -50,7 +49,7 @@ example line in /etc/fstab:
 >
 > example
 > `edquota sally` shows:
-> ![](../../../Image/edquota.png)
+> <img src="../../../Image/edquota.png" style="border:1px solid  lightgrey;width:80%" >
 > both **blocks** and **inodes** have **soft** and **hard** limits
 > | | |
 > |-|-|

@@ -18,57 +18,17 @@
    the file `/bin/sh` is a pointer to the default system shell:
       &nbsp;&nbsp;- normally /bin/bash for linux
       &nbsp;&nbsp;- Ubuntu is /bin/dash
+<span>&nbsp;</span>
+
 
 ### Using a shell
 Most commands are external - they're programs external to the shell
 A few commands are internal
 <mark>Internal commands take precedence
-<br>
+<hr/>
 
-
-
-
-
-
-# Command Tricks
-
-> ### Command Completion 
-> type the start of a command/filename and press `tab`
-> the shell tries to fill in the rest of the command or filename
-
-> ### history
-> shows previously used commands
-> `history -c` clears the history
-> the bash history is stored in *.bash_history* file
-> <br>
-> 
->### Previous command
-> `↑` `↓`  - move up/down in history
-> <br>   
-> 
-> ### Search for a command
-> `ctrl+R` search back in history
-> `ctrl+S` search forward in history
-> begin typing characters
-> characters you type don't need to be at the beginning of the command, they can exist anywhere in the command
-
-> ### Moving within a line
-> `←` `→`
-> `ctrl+→` move one word at a time
-> `ctrl+A` start of line
-> `ctrl+E` end of line
-   
-> ### Deleting Text
-> `ctrl+K` deletes from cursor to end of line
-> `ctrl+X` deletes from cursor to beginning of line
-
-> ### Change case
-> `esc+U` cursor to end of word to uppercase
-> `esc+L` lowercase
 # Internal Commands
-
 Built-in commands
-&nbsp;
 > ### cd
 > change directory
 > `cd /home/james`
@@ -115,15 +75,15 @@ Built-in commands
 > Some commands are <mark>duplicated</mark> - has an internal and external executable/s
 > internal commands take precedence
 > to check use ```–a```
-> ![](../../../Image/type-syntax2.png) <br>
-# Getting help
+> ![](../../../Image/type-syntax2.png)
+<hr/>
 
-> &nbsp;
->> ### man
->> manual
->> summary of a command/file
->> `man pwd`
-> 
+# Getting help
+> ### man
+> manual
+> summary of a command/file
+> `man pwd`
+
 > ### Less pager 
 > `man` uses the less pager to display info
 > displays text one page at a time <br>
@@ -141,8 +101,45 @@ Built-in commands
 > ### help
 > for <mark>builtin</mark> commands
 > `help pwd`
-# More Commands
+<hr/>
 
+# Command Tricks
+> ### Command Completion 
+> type the start of a command/filename and press `tab`
+> the shell tries to fill in the rest of the command or filename
+
+> ### history
+> shows previously used commands
+> `history -c` clears the history
+> the bash history is stored in *.bash_history* file
+> <br>
+> 
+>### Previous command
+> `↑` `↓`  - move up/down in history
+> <br>   
+> 
+> ### Search for a command
+> `ctrl+R` search back in history
+> `ctrl+S` search forward in history
+> begin typing characters
+> characters you type don't need to be at the beginning of the command, they can exist anywhere in the command
+
+> ### Moving within a line
+> `←` `→`
+> `ctrl+→` move one word at a time
+> `ctrl+A` start of line
+> `ctrl+E` end of line
+   
+> ### Deleting Text
+> `ctrl+K` deletes from cursor to end of line
+> `ctrl+X` deletes from cursor to beginning of line
+
+> ### Change case
+> `esc+U` cursor to end of word to uppercase
+> `esc+L` lowercase
+<hr/>
+
+# More Commands
 > ### mkdir
 > create directory
 > `mkdir test`
@@ -157,7 +154,9 @@ Built-in commands
 > ### cat
 > display file contents to STDOUT
 > `cat file.txt`
-### PATH
+<hr/>
+
+# PATH
 - When you type a command that's not recognised as an internal command, it checks the path to find a program by that name to execute it.
 - The *path* is a <mark>colon-delimited</mark> list of directories in which commands can be found
 - Defined by `$PATH` environment variable

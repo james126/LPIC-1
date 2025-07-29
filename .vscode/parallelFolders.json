@@ -131,7 +131,7 @@
                                         "children": []
                                     },
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Software/4 Dependencies and conflicts/Dependency conflicts.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Packages/Dependency conflicts.md",
                                         "children": []
                                     },
                                     {
@@ -163,10 +163,6 @@
                                     {
                                         "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Configuration.md",
                                         "children": []
-                                    },
-                                    {
-                                        "path": "LPIC-1 Study Guide/Section 1/Software/RPM packages/Extracting package data.md",
-                                        "children": []
                                     }
                                 ]
                             },
@@ -175,7 +171,7 @@
                                 "path": null,
                                 "children": [
                                     {
-                                        "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/Intro",
+                                        "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/Intro.md",
                                         "children": []
                                     },
                                     {
@@ -184,8 +180,7 @@
                                     },
                                     {
                                         "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/apt.md",
-                                        "children": [],
-                                        "name": "apt"
+                                        "children": []
                                     },
                                     {
                                         "path": "LPIC-1 Study Guide/Section 1/Software/Debian packages/Reconfigure packages.md",
@@ -309,7 +304,7 @@
                                         "path": "LPIC-1 Study Guide/Section 1/Hardware/USB devices",
                                         "children": [
                                                     {
-                                                        "name": "Kernel Modules",
+                                                        "name": "Basics",
                                                         "path": "LPIC-1 Study Guide/Section 1/Hardware/USB devices/Basics.md",
                                                         "children": []
                                                     }
@@ -490,7 +485,7 @@
                                         "children": []
                                     },
                                     {
-                                        "name": "Default permissions",
+                                        "name": "File attributes",
                                         "path": "LPIC-1 Study Guide/Section 1/Managing Files/File access/File attributes",
                                         "children": []
                                     }
@@ -539,8 +534,8 @@
                                 "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders",
                                 "children": [
                                     {
-                                        "name": "Terminology",
-                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders/Terminology.md",
+                                        "name": "Terms",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Boot Loaders/Terms.md",
                                         "children": []
                                     },
                                     {
@@ -593,7 +588,7 @@
                                 "children": [
                                     {
                                         "name": "SysV",
-                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/Using SysV.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/SysV/SysV.md",
                                         "children": []
                                     },
                                     {
@@ -652,21 +647,21 @@
                             },
                             {
                                 "name": "Vi",
-                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi",
+                                "path": "LPIC-1 Study Guide/Section 1/Booting Linux/vi",
                                 "children": [
                                     {
                                         "name": "vi",
-                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi/vi.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/vi/vi.md",
                                         "children": []
                                     },
                                     {
                                         "name": "vi Modes",
-                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi/vi Modes.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/vi/vi Modes.md",
                                         "children": []
                                     },
                                     {
                                         "name": "Using vi",
-                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/Vi/Using vi.md",
+                                        "path": "LPIC-1 Study Guide/Section 1/Booting Linux/vi/Using vi.md",
                                         "children": []
                                     }
                                 ]

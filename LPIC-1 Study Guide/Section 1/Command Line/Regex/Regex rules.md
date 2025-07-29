@@ -2,7 +2,7 @@
 
 Match patterns in text
 
-|                           | example        | machtes |
+|                           | example        | matches |
 | ------------------------- | -------------- | ------- |
 | string                    | *hello*        | hello   |
 | `\|` multiple string      | *hello\|hi*    | hello hi |
