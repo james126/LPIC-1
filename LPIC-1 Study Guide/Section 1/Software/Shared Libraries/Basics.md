@@ -10,7 +10,7 @@
 <hr>
 
 ### System Library path
-cotained in `/etc/ld.so.conf`
+contained in `/etc/ld.so.conf`
 example - *include /etc/ld.so.conf.d/*.conf*
 can have multiple paths
 Linux also refers to trusted libraries in `/lib` and `/usr/lib`
@@ -32,7 +32,7 @@ it could find the library *libXinerama.so.1*
 **troubleshooting**
 <li>check if library installed</li>
 <li>if library is installed, you may need to add it to the Library Path</li>
-<li>Sometimes the librarys <mark>path is hardcoded</mark> in the programs binary file, you can create a symbolic <mark>link</mark> from where the program expects it and the location of the library on your system</li>
+<li>Sometimes the libraries <mark>path is hardcoded</mark> in the programs binary file, you can create a symbolic <mark>link</mark> from where the program expects it and the location of the library on your system</li>
 
 <hr>
 
